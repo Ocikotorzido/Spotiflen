@@ -6,6 +6,7 @@ const contenido = () => {
     return (
         
         <div class="container d-flex">  
+        <div class="row ">
                 <Tarjeta/>
                 <Tarjeta/>
                 <Tarjeta/>
@@ -14,6 +15,7 @@ const contenido = () => {
                 <Tarjeta/>
                 <Tarjeta/>
                 <Tarjeta/>
+        </div>
         </div>
         
         
