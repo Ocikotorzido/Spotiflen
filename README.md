@@ -19,6 +19,21 @@ Spotiflen es uno de los desafíos de aprendizaje que permitirán profundizar sob
 
 En simples palabras, _el stack MERN_ es un conjunto de 4 _frameworks_/tecnologías utilizados para el desarrollo de aplicaciones web, específicamente _MongoDB, Express JS, React JS y Node JS_.
 
+## Atajos para hacer push a las ramas.
+Para hacer pushes más rápido y sin errores, se recomienda hacer un alias para poder usar los siguientes atajos.
+- `master`
+- `tom` (To MarfullsenDev)
+- `too` (To OcikoDev)
+
+### To Master
+`alias master=git push origin marfullsenDev`
+
+### To MarfullsenDev (TOM)
+`alias tom=git push origin marfullsenDev`
+
+### To OcikoDev (TOO)
+`alias too=git push origin ocikoDev`
+
 ## Configuración de React
 
 El FrontEnd del proyecto **para modo desarrollo** puede llevarse a cabo con el comando `yarn start`.\
