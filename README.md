@@ -7,7 +7,7 @@
 [![NodeJS](https://img.shields.io/badge/Node-14.17.5-yellow.svg)](https://nodejs.org/)
 
 <p align="center">
-  <img src="./docs/img/spotiflem.png" width="200" alt="Spotiflem-logo">
+  <img src="./docs/img/Spotiflem.png" width="200" alt="Spotiflem-logo">
 </p>
 
 ## ¿Qué es Spotiflen?
