@@ -6,6 +6,10 @@
 [![React](https://img.shields.io/badge/React-17.0.2-darkgreen.svg)](https://nodejs.org/)
 [![NodeJS](https://img.shields.io/badge/Node-14.17.5-yellow.svg)](https://nodejs.org/)
 
+<p align="center">
+  <img src="./docs/img/spotiflem.png" width="200" alt="Spotiflem-logo">
+</p>
+
 ## ¿Qué es Spotiflen?
 
 Spotiflen es uno de los desafíos de aprendizaje que permitirán profundizar sobre los conceptos del stack **MERN**.
