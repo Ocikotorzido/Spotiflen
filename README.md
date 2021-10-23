@@ -1,10 +1,15 @@
 # Spotiflen
 
 [![MERN](https://img.shields.io/badge/Stack-MERN-skyblue.svg)](https://openwebinars.net/blog/mern-stack-que-es-y-que-ventajas-ofrece/)
-[![Mongo](https://img.shields.io/badge/Mongo-5.0.3-green.svg)](https://www.mongodb.com/)
-[![Express](https://img.shields.io/badge/Express-4.17.1-blue.svg)]()
+[![=>](https://img.shields.io/badge/🡪-5e5e5e.svg)]()
+[![Mongo](https://img.shields.io/badge/MongoDB-5.0.3-green.svg)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express%20JS-4.17.1-blue.svg)]()
 [![React](https://img.shields.io/badge/React-17.0.2-darkgreen.svg)](https://nodejs.org/)
 [![NodeJS](https://img.shields.io/badge/Node-14.17.5-yellow.svg)](https://nodejs.org/)
+
+<p align="center">
+  <img src="./docs/img/Spotiflem.png" width="200" alt="Spotiflem-logo">
+</p>
 
 ## ¿Qué es Spotiflen?
 
@@ -12,28 +17,40 @@ Spotiflen es uno de los desafíos de aprendizaje que permitirán profundizar sob
 
 ## ¿Qué significa que el stack utilizado sea **MERN**?
 
-Básicamente, la pila MERN es un conjunto de marcos/tecnologías utilizados para el desarrollo web de aplicaciones que consta de MongoDB, Express JS, React JS y Node JS como sus componentes. 
+En simples palabras, _el stack MERN_ es un conjunto de 4 _frameworks_/tecnologías utilizados para el desarrollo de aplicaciones web, específicamente _MongoDB, Express JS, React JS y Node JS_.
 
----
+## Atajos para hacer push a las ramas.
+Para hacer pushes más rápido y sin errores, se recomienda hacer un alias para poder usar los siguientes atajos.
+- `master`
+- `tom` (To MarfullsenDev)
+- `too` (To OcikoDev)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### To Master
+`alias master=git push origin marfullsenDev`
 
-In the project directory, you can run:
+### To MarfullsenDev (TOM)
+`alias tom=git push origin marfullsenDev`
+
+### To OcikoDev (TOO)
+`alias too=git push origin ocikoDev`
+
+## Configuración de React
+
+El FrontEnd del proyecto **para modo desarrollo** puede llevarse a cabo con el comando `yarn start`.\
+En el caso del modo de producción, los archivos optimizados se obtienen con el comando `yarn build`
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Para iniciar la aplicación en modo desarrollo.
+- Ir a [http://localhost:3000](http://localhost:3000) en el navegador para ver el proyecto.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Al editar el código, **la página se recargará automáticamente**.
+- Los errores que puedan existir se mostrarán en la terminal/consola.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Crea los archivos para producción en la carpeta/directorio `build`.
+- Esto junta correctamente los archivos de React y optimiza los archivos para obtener el mejor desempeño.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- La versión de producción estará _minificada_ y los nombres de los archivos irán con _hashes_.
+- En ese momento la aplicación estará completada y lista para producción.
